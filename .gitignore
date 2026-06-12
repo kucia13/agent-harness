@@ -1,0 +1,7 @@
+# Skill lock file (local only)
+.skill-lock.json
+# macOS
+.DS_Store
+# Editor
+*.swp
+*~
